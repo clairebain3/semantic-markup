@@ -7,7 +7,8 @@ Installation
 N/A
 
 Usage
-N/A
+Please visit this link: https://clairebain3.github.io/semantic-markup/
+
 Credits
 N/A
 
